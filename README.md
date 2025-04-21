@@ -39,7 +39,7 @@ This repository contains a comprehensive implementation of Variational Autoencod
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/vae-image-generation.git
+   git clone https://github.com/deepakrajaR/vae-image-generation.git
    cd vae-image-generation
    ```
 
